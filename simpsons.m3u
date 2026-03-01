@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.stream4free.tv/
+#EXTVLCOPT:http-origin=https://www.stream4free.tv
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:-1 group-title="Cartoons",The Simpsons
+https://sv0.data-stream.top/44daab0fe3045d67a20f17c9f2c4f026ae992f60f43977a207a6276cf4a436d2/hls/simpsons.m3u8
