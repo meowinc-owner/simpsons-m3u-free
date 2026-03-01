@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,The Simpsons
+#EXTVLCOPT:http-referrer=https://www.stream4free.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0
+https://sv0.data-stream.top/44daab0fe3045d67a20f17c9f2c4f026ae992f60f43977a207a6276cf4a436d2/hls/simpsons.m3u8
